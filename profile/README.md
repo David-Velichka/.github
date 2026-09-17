@@ -1,3 +1,3 @@
-## Hi there 👋
+# Hi there 👋
 
-Here you can find David's and Velichka's projects!
+## Here you can find David's and Velichka's projects!
